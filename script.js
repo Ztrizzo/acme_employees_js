@@ -205,6 +205,7 @@ function displayManagementTree(employeeTree){
         }
     })
 }
+
 displayManagementTree(generateManagementTree(employees)); /*
   moe
   -larry
